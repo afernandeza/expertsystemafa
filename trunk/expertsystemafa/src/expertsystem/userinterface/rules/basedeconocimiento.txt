@@ -1,0 +1,8 @@
+IF(A^B)->J
+IF(J^K)->M
+IF(F)->I
+IF(K^I)->P
+IF(M^L)->Q
+IF(P^R)->G
+IF(Q)->G
+IF(G)->H
